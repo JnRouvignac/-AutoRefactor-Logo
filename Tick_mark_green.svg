@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="180"
+   height="185"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Tick_mark_green.svg">
+  <metadata
+     id="metadata1916">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1914">
+    <linearGradient
+       id="linearGradient4550">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop4552" />
+      <stop
+         style="stop-color:#062;stop-opacity:0;"
+         offset="1"
+         id="stop4554" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3647">
+      <stop
+         style="stop-color:#fbfbfb;stop-opacity:1;"
+         offset="0"
+         id="stop3649" />
+      <stop
+         style="stop-color:#062;stop-opacity:0;"
+         offset="1"
+         id="stop3651" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3647"
+       id="linearGradient3653"
+       x1="25.458191"
+       y1="83.594818"
+       x2="173.17017"
+       y2="83.594818"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="767"
+     inkscape:window-width="1278"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.9646102"
+     inkscape:cx="90"
+     inkscape:cy="91.0946"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <g
+     id="g2068">
+    <g
+       id="g3014">
+      <path
+         d="M 175.05199,82.236027 C 181.78199,130.03603 151.38199,174.06603 107.14199,180.29603 C 62.881986,186.53603 21.581986,152.73603 14.881986,104.82603 C 8.2019864,56.936027 38.581986,12.936027 82.781986,6.7360273 C 126.98199,0.5360273 167.98199,34.336027 174.98199,82.236027 L 175.05199,82.236027 z "
+         style="fill:#062"
+         id="2" />
+      <path
+         d="M 159.03899,84.506075 C 164.41199,122.83603 140.08199,157.93603 104.68199,162.93603 C 69.331986,167.92603 36.281986,140.93603 30.881986,102.53603 C 25.581986,64.236027 49.881986,29.036027 85.281986,24.036027 C 120.68199,19.136027 153.68199,46.036027 159.03899,84.536027 L 159.03899,84.536027 L 159.03899,84.506075 z "
+         style="fill:#ded"
+         id="3" />
+      <path
+         style="fill:#062;fill-opacity:1"
+         d="M 45.445224,130.06593 L 32.216341,123.6375 C 29.759918,116.5782 26.788032,109.81713 24.473028,102.27805 C 23.701688,99.766091 36.592305,103.23793 54.618451,111.49149 C 63.511885,114.72723 71.198993,120.39812 79.614103,124.50969 C 81.725273,79.277262 102.34702,36.455577 135.61559,6.0220415 C 136.50772,5.1480855 139.19962,3.4719955 140.68573,2.8651495 C 142.2368,2.2317655 143.26572,2.2442035 144.57222,2.9121295 C 147.99996,4.6644885 154.15912,9.7777188 164.27185,19.266398 C 170.97089,25.552048 171.91962,26.412355 172.15216,26.41236 C 168.15806,29.403655 164.02271,32.434135 160.11055,35.601769 C 116.08027,73.589548 99.021526,111.17596 92.387798,168.8613 C 78.754746,153.50382 62.696476,141.10787 45.445224,130.06593 z "
+         id="use4546"
+         sodipodi:nodetypes="ccsssssssssss" />
+    </g>
+  </g>
+</svg>
